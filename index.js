@@ -25,5 +25,5 @@ function dec(n) {
 }
 
 function makeInt(n) {
-  parseInt("007", 10);
+  parseInt("587", 10);
 }
